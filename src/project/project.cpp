@@ -318,6 +318,7 @@ bool Project::addGraphDocument(GraphDocumentPtr document)
         fileName = "graphfile" + QString::number(i) + QString(".graph2");
         if (!usedFileNames.contains(fileName)) {
             break;
+
         }
     }
     QString path = d->m_workingDirectory.path()

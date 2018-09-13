@@ -30,6 +30,7 @@
 #include <QDirIterator>
 #include <QJsonArray>
 #include <QJsonObject>
+#include <QMessageBox>
 
 using namespace GraphTheory;
 
@@ -121,6 +122,12 @@ void FileFormatManager::loadBackends()
             FileFormatInterface *plugin = factory->create<FileFormatInterface>(this);
             d->backends.append(plugin);
         }
+    }
+
+    if (d->backends.empty()) {
+        QMessageBox::critical(nullptr, tr("Plugin Error"), tr("Plugins could not be found in specified directories:\n") +
+                                                              dirsToCheck.join('\n'), QMessageBox::Close, QMessageBox::Close);
+        exit(1);
     }
 
     // load static plugins
