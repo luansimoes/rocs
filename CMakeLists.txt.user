@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.7.0, 2018-09-09T18:58:44. -->
+<!-- Written by QtCreator 4.7.0, 2018-09-14T12:10:41. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -343,7 +343,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/fileformats/tgf/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/fileformats/tgf/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">TestTgfFileFormat</value>
@@ -399,7 +399,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/fileformats/tikz/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/fileformats/tikz/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">TestTikzFileFormat</value>
@@ -455,7 +455,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/src</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/src</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">rocs</value>
@@ -511,7 +511,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/src/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/src/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">TestProject</value>
@@ -567,7 +567,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/fileformats/dot/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/fileformats/dot/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">TestDotFileFormat</value>
@@ -623,7 +623,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/fileformats/gml/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/fileformats/gml/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">TestGmlFileFormat</value>
@@ -679,7 +679,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/fileformats/rocs1/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/fileformats/rocs1/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">TestRocs1FileFormat</value>
@@ -735,7 +735,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/fileformats/rocs2/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/fileformats/rocs2/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">TestRocs2FileFormat</value>
@@ -791,7 +791,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">test_kernel</value>
@@ -847,7 +847,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">test_graphoperations</value>
@@ -903,7 +903,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/autotests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/autotests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">test_kernelscriptapi</value>
@@ -959,7 +959,7 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-dHcoXi/qtc-cmake-mXHzPSJB/libgraphtheory/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/tmp/QtCreator-RgpoiU/qtc-cmake-CaMoexHj/libgraphtheory/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">scenetest</value>
