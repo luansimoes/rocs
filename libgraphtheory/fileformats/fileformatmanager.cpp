@@ -123,6 +123,18 @@ void FileFormatManager::loadBackends()
             d->backends.append(plugin);
         }
     }
+    if (d->backends.empty()) {
+            QMessageBox pluginErrorMessageBox;
+            pluginErrorMessageBox.setWindowTitle(tr("Plugin Error"));
+            pluginErrorMessageBox.setTextFormat(Qt::RichText);
+            pluginErrorMessageBox.setText("Plugins could not be found in specified directories:<br>"+
+                                             dirsToCheck.join("<br>")+
+                                             "<br><br> Check <a href='http://doc.qt.io/qt-5/deployment-plugins.html'>"
+                                             "this link</a> for further informations.");
+            pluginErrorMessageBox.setDefaultButton(QMessageBox::Close);
+            pluginErrorMessageBox.exec();
+            exit(1);
+        }
 
     // load static plugins
     d->defaultGraphFilePlugin = backendByExtension("graph2");
