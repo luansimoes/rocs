@@ -124,12 +124,6 @@ void FileFormatManager::loadBackends()
         }
     }
 
-    if (d->backends.empty()) {
-        QMessageBox::critical(nullptr, tr("Plugin Error"), tr("Plugins could not be found in specified directories:\n") +
-                                                              dirsToCheck.join('\n'), QMessageBox::Close, QMessageBox::Close);
-        exit(1);
-    }
-
     // load static plugins
     d->defaultGraphFilePlugin = backendByExtension("graph2");
 }
